@@ -1,5 +1,5 @@
-# Heart-Disease-Classification
-This project aims to develop a machine-learning model to predict whether a patient has heart disease or not based on attributes like age, sex, cholesterol level, blood pressure, etc.
+# Dog-Vision
+This TensorFlow-based machine learning project leverages transfer learning to classify dog breeds. By fine-tuning pre-trained models, it identifies canine breeds based on the given data.
 
 ### Prerequisites
 * Python 3

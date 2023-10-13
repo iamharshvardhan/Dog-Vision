@@ -1,4 +1,7 @@
 # Dog-Vision
+
+<center><img src="https://housing.com/news/wp-content/uploads/2023/07/Cute-dog-breeds-that-make-the-best-pets-f.jpg", height=400><center>
+
 This TensorFlow-based machine learning project leverages transfer learning to classify dog breeds. By fine-tuning pre-trained models, it identifies canine breeds based on the given data.
 
 ### Prerequisites
